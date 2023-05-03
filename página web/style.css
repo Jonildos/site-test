@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+    color: red;
+}
+
+img {
+    margin-left: 540px;
+    width: 200px;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+}
